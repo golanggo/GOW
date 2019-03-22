@@ -19,7 +19,10 @@ func main() {
 	//list.Del(3)
 	fmt.Println(list, list.Lenght)
 
-	list.Sort();
+	list.Sort()
+	fmt.Println(list)
+	fmt.Println(list)
+	fmt.Println(list)
 	fmt.Println(list)
 
 }
